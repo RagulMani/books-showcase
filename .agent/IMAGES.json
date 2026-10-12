@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "path": "public/images/library/9572664.jpg",
+      "url_path": "/images/library/9572664.jpg",
+      "width": 5590,
+      "height": 3727,
+      "aspect_ratio": "1.50:1",
+      "source": "pexels",
+      "pexels_id": "9572664",
+      "alt": "Warm wooden bookshelves filled with books",
+      "bytes": 2910605,
+      "usages": [
+        {
+          "page": "home",
+          "slot": "hero"
+        }
+      ]
+    },
+    {
+      "path": "public/images/library/936133.jpg",
+      "url_path": "/images/library/936133.jpg",
+      "width": 2048,
+      "height": 1365,
+      "aspect_ratio": "1.50:1",
+      "source": "pexels",
+      "pexels_id": "936133",
+      "alt": "A reader sitting with a book in a quiet park",
+      "bytes": 259595,
+      "usages": [
+        {
+          "page": "home",
+          "slot": "reader"
+        }
+      ]
+    }
+  ]
+}
